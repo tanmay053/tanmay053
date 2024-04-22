@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmay053
 - 👀 I’m interested in data science, ai/ml, game dev and animation
-- 🌱 I’m currently learning python from code with harry and peirian zero to hero bootcamp
+- 🌱 I’m currently learning PYTORCH and ML
 - 📫 How to reach me:
 - linkdn: https://www.linkedin.com/in/tanmay-shankar-5190b9223/
 - email: tanmayshankar05@gmail.com
